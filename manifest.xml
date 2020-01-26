@@ -2,13 +2,13 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
     <Id>249cf2b0-62aa-40be-9b03-f452022b2fd2</Id>
     <Version>1.0.0.0</Version>
-    <ProviderName>Contoso</ProviderName>
+    <ProviderName>ELAP</ProviderName>
     <DefaultLocale>en-US</DefaultLocale>
-    <DisplayName DefaultValue="elap-dv-client-reporting"/>
-    <Description DefaultValue="A template to get started."/>
+    <DisplayName DefaultValue="ELAP DV client reporting"/>
+    <Description DefaultValue="Used by ELAP to generate client reports"/>
     <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
     <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-80.png"/>
-    <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+    <SupportUrl DefaultValue="https://github.com/brian-tanabe/elap-dv-client-reporting/issues"/>
     <AppDomains>
         <AppDomain>contoso.com</AppDomain>
     </AppDomains>
